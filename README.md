@@ -1,4 +1,4 @@
-# phytons-pit
+# pythons-pit
 secrets and hints about phyton
 # Python
 
